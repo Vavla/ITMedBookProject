@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Auth" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/auth_green</item>
+        <item name="colorSecondary">@color/auth_blue</item>
+        <item name="colorOnError">@color/auth_red</item>
+        <item name="colorButtonNormal">@color/btn_color_back</item>
+        <item name="colorAccent">@color/black</item>
+
+        <!-- Primary brand color. -->
+<!--        <item name="colorPrimary">@color/purple_200</item>-->
+<!--        <item name="colorPrimaryVariant">@color/purple_700</item>-->
+<!--        <item name="colorOnPrimary">@color/black</item>-->
+        <!-- Secondary brand color. -->
+<!--        <item name="colorSecondary">@color/teal_200</item>-->
+<!--        <item name="colorSecondaryVariant">@color/teal_200</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+    </style>
+</resources>

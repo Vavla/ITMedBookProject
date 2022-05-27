@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/drawable/btn_auth_link_style.xml" value="0.23703703703703705" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/drawable/btn_style.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_call_doc.xml" value="0.2" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_connect.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_main2.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_med.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_message.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_research.xml" value="0.2" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_sign.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_sign_form.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/activity_start.xml" value="0.2" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/app_bar_main.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/chat_message.xml" value="0.2359375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/content_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_blank.xml" value="0.264" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_log.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_main.xml" value="0.16" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_main__sign_form.xml" value="0.234375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_navigation.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_pop_up_menu.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_second__sign_form_.xml" value="0.2203125" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_second_sign_form_.xml" value="0.234375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/fragment_sign_form.xml" value="0.25" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/main_signform.xml" value="0.2203125" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/medbook1.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/nav_header_main.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/research.xml" value="0.234375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform1.xml" value="0.2203125" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform2.xml" value="0.2359375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform_button.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform_date.xml" value="0.2359375" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform_numbers.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/dns/AndroidStudioProjects/ITMedBook/app/src/main/res/layout/signform_switch.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
